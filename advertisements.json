@@ -12,5 +12,15 @@
       "image": "https://raw.githubusercontent.com/Sadeesha-Sath/sltb-cms/main/ads/Home_3.png",
       "href": "https://stacktech.io/"
     }
+  ],
+  "home": [
+    {
+      "image": "https://raw.githubusercontent.com/Sadeesha-Sath/sltb-cms/main/ads/Map_del.png",
+      "href": "https://stacktech.io/"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/Sadeesha-Sath/sltb-cms/main/ads/Map1.png",
+      "href": "https://stacktech.io/"
+    }
   ]
 }
